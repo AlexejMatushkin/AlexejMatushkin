@@ -7,7 +7,7 @@
 
 - 👨‍💻 Все мои проекты доступны тут: [https://github.com/AlexejMatushkin](https://github.com/AlexejMatushkin)
 
-- 📫 Как связаться со мной: **[https://t.me/AlexxMat]**, **[matushkin.leha2018@gmail.com]**
+- 📫 Как связаться со мной: **[ https://t.me/AlexxMat ]**, **[matushkin.leha2018@gmail.com]**
 
 - 📄 Мое резюме: [https://ufa.hh.ru/resume/da3524c7ff0e8ffd860039ed1f414d424f7033]
 
