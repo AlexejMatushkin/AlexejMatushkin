@@ -26,7 +26,17 @@
 </p>
 
 <h3 align="left">Моя статистика на GitHub:</h3>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlexejMatushkin&show_icons=true&theme=default" alt="AlexejMatushkin" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexejMatushkin&layout=compact&theme=default" alt="AlexejMatushkin" />
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AlexejMatushkin&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical" alt="AlexejMatushkin's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexejMatushkin&layout=compact&theme=radical&langs_count=8&hide=html,css" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexejMatushkin&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AlexejMatushkin&color=blueviolet" alt="Profile views" />
 </p>
