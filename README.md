@@ -9,7 +9,7 @@
 
 - 📫 Как связаться со мной:[**@AlexxMat**](https://t.me/AlexxMat) | [**matushkin.leha2018@gmail.com**](mailto:matushkin.leha2018@gmail.com)
 
-- 📄 Мое резюме: [**Моё резюме**](https://github.com/AlexejMatushkin/AlexejMatushkin/blob/main/Матушкин%20Алексей%20Иванович%20(3).pdf)
+- 📄 Мое резюме: [**Моё резюме**](https://github.com/AlexejMatushkin/AlexejMatushkin/blob/main/%D0%9C%D0%B0%D1%82%D1%83%D1%88%D0%BA%D0%B8%D0%BD%20%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9%20%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%87%20(2).pdf)
 
 <h3 align="left">Мой стек технологий:</h3>
 <p align="left">
